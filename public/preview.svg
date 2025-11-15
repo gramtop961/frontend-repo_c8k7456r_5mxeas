@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="750" viewBox="0 0 1200 750" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="750" rx="24" fill="#F1F5FE"/>
+  <rect x="40" y="40" width="1120" height="80" rx="12" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <rect x="60" y="60" width="36" height="36" rx="8" fill="#4F46E5"/>
+  <text x="110" y="86" font-family="Inter, Arial" font-size="22" fill="#0F172A">EV Charging Station Locator</text>
+  <text x="111" y="110" font-family="Inter, Arial" font-size="12" fill="#64748B">Smart route optimization and chatbot assistance</text>
+
+  <rect x="40" y="140" width="760" height="510" rx="16" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <text x="60" y="170" font-family="Inter, Arial" font-size="16" font-weight="600" fill="#0F172A">Find the best nearby charger</text>
+  <rect x="60" y="190" width="720" height="42" rx="8" fill="#EEF2FF" stroke="#E5E7EB"/>
+  <rect x="60" y="240" width="160" height="42" rx="8" fill="#EEF2FF" stroke="#E5E7EB"/>
+  <rect x="230" y="240" width="120" height="42" rx="8" fill="#EEF2FF" stroke="#E5E7EB"/>
+  <rect x="360" y="240" width="140" height="42" rx="8" fill="#4F46E5"/>
+  
+  <rect x="60" y="300" width="350" height="160" rx="12" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <text x="78" y="325" font-family="Inter, Arial" font-size="14" font-weight="600" fill="#0F172A">Recommended station</text>
+  <rect x="430" y="300" width="350" height="160" rx="12" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <text x="448" y="325" font-family="Inter, Arial" font-size="14" font-weight="600" fill="#0F172A">Top candidates</text>
+
+  <rect x="820" y="140" width="340" height="270" rx="16" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <text x="840" y="170" font-family="Inter, Arial" font-size="16" font-weight="600" fill="#0F172A">Assistant</text>
+  <rect x="840" y="190" width="300" height="200" rx="12" fill="#F8FAFC" stroke="#E5E7EB"/>
+  
+  <rect x="820" y="430" width="340" height="220" rx="16" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <text x="840" y="460" font-family="Inter, Arial" font-size="16" font-weight="600" fill="#0F172A">Preview</text>
+  <rect x="840" y="480" width="300" height="150" rx="12" fill="#F8FAFC" stroke="#E5E7EB"/>
+
+  <text x="600" y="720" text-anchor="middle" font-family="Inter, Arial" font-size="12" fill="#64748B">Built with FastAPI + React</text>
+</svg>
